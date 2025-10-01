@@ -4,6 +4,3 @@ This repository contains my solutions to **Data Structures and Algorithms (DSA)*
 The goal of this repo is to **practice DSA daily**, build strong fundamentals, and prepare for coding interviews.  
 
 ---
-
-## 📂 Repository Structure  
-
